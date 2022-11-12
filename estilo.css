@@ -567,6 +567,11 @@ html{
     position: relative;
     z-index: 10;
 }
+
+.contacto button a{
+    color: #fff;
+    text-decoration: none;
+}
 .contacto button .overlay{
     position: absolute;
     top: 0;
